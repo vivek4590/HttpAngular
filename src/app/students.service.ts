@@ -10,4 +10,8 @@ export class StudentsService {
   {
     return [{"id":101,"name":"Arun"},{"id":102,"name":"Gautam"},{"id":103,"name":"Sribin"}];
   }
+  getEmployees()
+  {
+    return "100";
+  }
 }
