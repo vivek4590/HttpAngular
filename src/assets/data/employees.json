@@ -1,0 +1,6 @@
+[
+    {"id":1,"firstname":"Arun","lastname":"Sharma","dept":"Experian","salary":"100"},
+    {"id":2,"firstname":"Raghav","lastname":"Mahajan","dept":"Experian","salary":"200"},
+    {"id":3,"firstname":"Gopal","lastname":"Chettry","dept":"Experian","salary":"150"},
+    {"id":4,"firstname":"Ankur","lastname":"Sharma","dept":"Experian","salary":"130"}    
+]
